@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Ustawienia</string>
+    <string name="app_name">Moja Pierwsza Aplikacja</string>
+    <string name="button_send">Wyślij</string>
+    <string name="edit_message">Edytuj wiadomość</string>
+</resources>
